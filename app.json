@@ -1,10 +1,10 @@
 {
   "expo": {
-    "name": "mypal",
+    "name": "DevsPal",
     "slug": "mypal",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "icon": "./assets/devspal.png",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
